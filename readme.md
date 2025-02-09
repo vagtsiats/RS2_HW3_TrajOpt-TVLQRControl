@@ -16,7 +16,7 @@ Results demonstrate successful trajectory optimization and control implementatio
 ### Swing-up Trajectory Optimization and Control
 |States|Controls|
 |---|---|
-|![](./media/10_1e-3_qs.png)| ![](./media/10_1e-3_qs.png)|
+|![](./media/10_1e-3_qs.png)| ![](./media/10_1e-3_us.png)|
 
 ### Simulation GIF
 ![Simulation](./media/swingup.gif)
